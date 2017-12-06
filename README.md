@@ -1,9 +1,18 @@
 # Memory Game Project
-
+Memory Game Project is a fun and easy-to-play game that will help you relax from your hard day!!!
 ## Table of Contents
 
+* [How to play] (#howtoplay)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+
+## How to play
+* Simply open `index.html` file.
+* Click on the card and find the matching one.
+* Every move will be counted and show at the top of the card board.
+* Stars will decrease when you use too many moves!
+* After you can match all cards, congratulation pop-up will appear and show all your status.
+* Click on restart button to restart your game at anytime. 
 
 ## Instructions
 

@@ -61,10 +61,7 @@ function CountMove() {
     } else if (moves === 15) {
         stars--;
         $(".stars li i").slice(1,2).removeClass("fa-star").addClass("fa-star-o");
-    } else if (moves === 18) {
-        stars--;
-        $(".stars li i").slice(0,1).removeClass("fa-star").addClass("fa-star-o");
-    }
+    } 
 }
 
 // Create star rating function
@@ -133,7 +130,6 @@ function congratulation() {
         $("#CongratModal").css("display","none");
     })
 }
-
 
 let startTimer // Use to store IntervalID
 function restart() {
