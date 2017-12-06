@@ -2,7 +2,7 @@
 Memory Game Project is a fun and easy-to-play game that will help you relax from your hard day!!!
 ## Table of Contents
 
-* [How to play](#how to play)
+* [How to play](#how-to-play)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
