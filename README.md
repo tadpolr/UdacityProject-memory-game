@@ -1,5 +1,8 @@
 # Memory Game Project
 Memory Game Project is a fun and easy-to-play game that will help you relax from your hard day!!!
+
+Example: </br>
+<img alt="screenShot" src="./img/Screenshot.png" width="500pd">
 ## Table of Contents
 
 * [How to play](#how-to-play)
